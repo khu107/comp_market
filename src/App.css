@@ -1,3 +1,10 @@
+.main-bg {
+  height: 380px;
+  background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-school-timetable-card-with-laptop-theme-in-background-picture-image_1157915.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
 .App {
   text-align: center;
 }
